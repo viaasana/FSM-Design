@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Dec 20 10:56:35 2024
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : Lap02
+Top-level Entity Name : MSSV_MEALY
+Family : Cyclone II
+Total logic elements : 13
+    Total combinational functions : 13
+    Dedicated logic registers : 3
+Total registers : 3
+Total pins : 9
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
